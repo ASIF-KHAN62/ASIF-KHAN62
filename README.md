@@ -65,10 +65,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif-khan62&show_icons=true&theme=radical)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-khan62&theme=tokyonight">
-</p>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif-khan62&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-khan62&layout=compact&theme=tokyonight)
 
 ---
 

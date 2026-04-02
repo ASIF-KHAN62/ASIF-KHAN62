@@ -65,14 +65,12 @@
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asif-khan62&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asif-khan62&theme=github_dark)
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asif-khan62&theme=github_dark)
+
 ---
 
 ## 📈 Contribution Graph

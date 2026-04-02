@@ -22,7 +22,7 @@
 
 ## 🌐 My Portfolio
 🚀 Explore my work here:  
-👉 **[Visit Portfolio](https://your-portfolio-link.com)**
+👉 **[Visit Portfolio](asifkhan0.netlify.app)**
 
 ---
 
@@ -66,21 +66,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASIF-KHAN62&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF-KHAN62&theme=radical">
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIF-KHAN62&theme=react-dark">
 
 ---
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="linkedin.com/in/asif-khan-a461a8329"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:khanasif60006@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---

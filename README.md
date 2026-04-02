@@ -68,10 +68,11 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-khan62&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asif-khan62&theme=github_dark)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=asif-khan62&theme=react-dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asif-khan62&theme=github_dark)
 
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asif-khan62&theme=github_dark)
 ---
 
 ## 📈 Contribution Graph

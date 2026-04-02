@@ -16,13 +16,13 @@
 - 💡 Passionate about building real-world projects  
 - 🌱 Currently learning **Full Stack Development & DSA**  
 - 🎯 Goal: Crack top tech companies  
-- ⚡ I love creating UI + solving problems  
+- ⚡ Love UI Designing & Problem Solving  
 
 ---
 
 ## 🌐 My Portfolio
 🚀 Explore my work here:  
-👉 **[Visit Portfolio](asifkhan0.netlify.app)**
+👉 **[Visit Portfolio](https://asifkhan0.netlify.app)**
 
 ---
 
@@ -66,20 +66,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASIF-KHAN62&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF-KHAN62&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=asif-khan62&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-khan62&theme=tokyonight">
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIF-KHAN62&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asif-khan62&theme=react-dark">
 
 ---
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="linkedin.com/in/asif-khan-a461a8329"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/asif-khan-a461a8329"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:khanasif60006@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
